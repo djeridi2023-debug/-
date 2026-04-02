@@ -1,0 +1,6 @@
+PyQt6
+sqlalchemy
+cryptography
+python-dotenv
+openai
+pyinstaller
